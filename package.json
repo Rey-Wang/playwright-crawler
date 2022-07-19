@@ -1,0 +1,21 @@
+{
+  "name": "playwright-crawler",
+  "version": "1.0.0",
+  "description": "Use playwright scraping website",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rey-Wang/playwright-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rey-Wang/playwright-crawler/issues"
+  },
+  "homepage": "https://github.com/Rey-Wang/playwright-crawler#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.4"
+  }
+}
